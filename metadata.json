@@ -1,0 +1,6 @@
+{
+  "name": "Şefin Defteri",
+  "description": "Mutfaktaki mirasınızı dijitalleştirebileceğiniz, tariflerinizi kaydedip keşfedebileceğiniz modern yemek tarifleri defteri uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
